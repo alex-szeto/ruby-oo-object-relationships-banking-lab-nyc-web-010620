@@ -1,6 +1,5 @@
 require_relative './transfer.rb'
 
-
 class BankAccount
 
     attr_accessor :balance, :status
